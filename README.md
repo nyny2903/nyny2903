@@ -4,7 +4,7 @@
 
 ---
 
-<img src="https://github.com/nyny2903/nyny2903/blob/main/furg_logo.png?raw=true" width="14px"> Estudante de Física bacharelado na FURG
+<img src="https://github.com/nyny2903/nyny2903/blob/main/furg_logo.png?raw=true" width="14px">  Estudante de Física bacharelado na FURG
 
 ---
 Onde me encontrar
