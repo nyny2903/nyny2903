@@ -1,8 +1,9 @@
 <p align="center">
-# Oie! Welcome 2 my profile (^_^)
+# Oie! Welcome 2 my profile
 </p>
 
 (ᵔ◡ᵔ)
+(^_^)
 
 ---
 
