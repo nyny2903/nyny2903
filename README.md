@@ -8,7 +8,7 @@
   <img src="https://github.com/nyny2903/nyny2903/blob/main/sharkshark.gif?raw=true" width="60%">
 </p>
 
-![Visitas](https://komarev.com/ghpvc/?username=nyny2903&color=blueviolet)
+![Card](https://readme-typing-svg.demolab.com/?lines=Física+🎓;Python+🐍;Astrofísica+🌌&center=true&size=20)
 
 <div align="center">
 <h3>Onde me encontrar</h3>
