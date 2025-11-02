@@ -1,4 +1,6 @@
-<p align="center"> **Oie! Welcome 2 my profile (ᵔ◡ᵔ)** </p>
+<h1 align="center">
+  <b>Oie! Welcome 2 my profile (ᵔ◡ᵔ)</b>
+</h1>
 
 ---
 
