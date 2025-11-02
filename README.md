@@ -8,6 +8,8 @@
   <img src="https://github.com/nyny2903/nyny2903/blob/main/sharkshark.gif?raw=true" width="60%">
 </p>
 
+![Visitas](https://komarev.com/ghpvc/?username=nyny2903&color=blueviolet)
+
 <div align="center">
 <h3>Onde me encontrar</h3>
 
@@ -21,4 +23,6 @@
 
 ***
 
-![Snake animation](https://github.com/nyny2903/nyny2903/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nyny2903&show_icons=true&theme=radical)
+</div> 
