@@ -9,7 +9,7 @@
 
 <a href="https://www.last.fm/user/nynysz">
   <img src="https://github.com/user-attachments/assets/7d26f2d5-c71e-4134-806c-e30b14fa4314" width="30px" />
-</a> &nbsp; &nbsp;
+</a>
 <a href="mailto:nynymramos@gmail.com">
   <img src="https://blob.gifcities.org/gifcities/RU2HUVLHIIM5W5DE554Q4S3KUT2TEF4K.gif" width="30px" />
 </a>
