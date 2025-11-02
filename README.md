@@ -11,5 +11,8 @@
   <img src="https://github.com/user-attachments/assets/7d26f2d5-c71e-4134-806c-e30b14fa4314" width="40px" />
 </a>
 <a href="mailto:nynymramos@gmail.com">
-  <img src="https://blob.gifcities.org/gifcities/RU2HUVLHIIM5W5DE554Q4S3KUT2TEF4K.gif" width="40px" />
+  <img src="https://blob.gifcities.org/gifcities/RU2HUVLHIIM5W5DE554Q4S3KUT2TEF4K.gif" width="45px" />
 </a>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nyny2903&show_icons=true&theme=radical) 
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=nyny2903&theme=react-dark)
