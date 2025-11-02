@@ -1,7 +1,4 @@
-<p align="center"> #Oie! Welcome 2 my profile</p>
-
-(ᵔ◡ᵔ)
-(^_^)
+<p align="center"> Oie! Welcome 2 my profile (ᵔ◡ᵔ)</p>
 
 ---
 
