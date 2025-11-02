@@ -18,4 +18,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nyny2903&show_icons=true&theme=radical) 
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=nyny2903&theme=react-dark)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=nyny2903&show_icons=true&theme=radical) 
