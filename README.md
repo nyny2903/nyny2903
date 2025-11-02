@@ -27,4 +27,5 @@
 
 ***
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Física](https://img.shields.io/badge/Física-8A2BE2?style=for-the-badge&logo=atom&logoColor=white)
+
