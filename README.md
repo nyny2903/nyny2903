@@ -23,7 +23,6 @@
 <div align="center">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nyny2903&show_icons=true&theme=radical)
 </div> 
-
 ***
 
 ![Snake animation](https://github.com/nyny2903/nyny2903/blob/output/github-contribution-grid-snake.svg)
