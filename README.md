@@ -5,7 +5,7 @@
 <img src="https://github.com/nyny2903/nyny2903/blob/main/furg_logo.png?raw=true" width="14px">  Estudante de Física bacharelado na FURG<br/>Bolsista CNPQ de IC do Grupo de Astrofísica Teórica e Computacional
 
 <p align="center">
-  <img src="https://github.com/nyny2903/nyny2903/blob/main/sharkshark.gif?raw=true" width="90%">
+  <img src="https://github.com/nyny2903/nyny2903/blob/main/sharkshark.gif?raw=true" width="60%">
 </p>
 
 <div align="center">
