@@ -17,5 +17,4 @@
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nyny2903&show_icons=true&theme=radical) 
-
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=nyny2903&show_icons=true&theme=radical) 
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=nyny2903&layout=compact&theme=radical)
