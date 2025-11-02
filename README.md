@@ -8,8 +8,6 @@
   <img src="https://github.com/nyny2903/nyny2903/blob/main/sharkshark.gif?raw=true" width="60%">
 </p>
 
-![Card](https://readme-typing-svg.demolab.com/?lines=Física+🎓;Python+🐍;Astrofísica+🌌&center=true&size=20)
-
 <div align="center">
 <h3>Onde me encontrar</h3>
 
@@ -24,5 +22,7 @@
 ***
 
 <div align="center">
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nyny2903&show_icons=true&theme=radical)
+
 </div> 
