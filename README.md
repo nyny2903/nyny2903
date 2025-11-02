@@ -20,11 +20,10 @@
 </div>
 
 ***
-
 <div align="center">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nyny2903&show_icons=true&theme=radical)
 </div> 
 
 ***
 
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Snake animation](https://github.com/nyny2903/nyny2903/blob/output/github-contribution-grid-snake.svg)
