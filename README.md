@@ -5,17 +5,19 @@
 <img src="https://github.com/nyny2903/nyny2903/blob/main/furg_logo.png?raw=true" width="14px">  Estudante de Física bacharelado na FURG<br/>Bolsista CNPQ de IC do Grupo de Astrofísica Teórica e Computacional
 
 <p align="center">
-  <img src="https://github.com/nyny2903/nyny2903/blob/main/sharkdivider.gif?raw=true" width="100%">
+  <img src="https://github.com/nyny2903/nyny2903/blob/main/sharkshark.gif?raw=true" width="90%">
 </p>
 
-<h3 align="center">Onde me encontrar</h3>
+<div align="center">
+<h3>Onde me encontrar</h3>
 
-<a align="center" href="https://www.last.fm/user/nynysz">
+<a href="https://www.last.fm/user/nynysz">
   <img src="https://github.com/user-attachments/assets/7d26f2d5-c71e-4134-806c-e30b14fa4314" width="45px" />
 </a>
-<a align="center" href="mailto:nynymramos@gmail.com">
+<a href="mailto:nynymramos@gmail.com">
   <img src="https://blob.gifcities.org/gifcities/RU2HUVLHIIM5W5DE554Q4S3KUT2TEF4K.gif" width="50px" />
 </a>
+</div>
 
 ***
 
