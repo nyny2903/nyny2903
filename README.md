@@ -18,7 +18,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="45px" />
 </a>
 <a href="https://www.last.fm/user/nynysz">
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/232_Lastfm_logo-512.png" width="50px" />
+  <img src="https://www.last.fm/static/images/favicon.192x192.png" width="50px" />
 </a>
 </div>
 
