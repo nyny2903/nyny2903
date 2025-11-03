@@ -15,7 +15,7 @@
   <img src="https://blob.gifcities.org/gifcities/RU2HUVLHIIM5W5DE554Q4S3KUT2TEF4K.gif" width="55px" />
 </a>
 <a href="https://discord.com/users/astr0str">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="55px" />
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="50px" />
 </a>
 <a href="https://www.last.fm/user/nynysz">
   <img src="https://github.com/user-attachments/assets/7d26f2d5-c71e-4134-806c-e30b14fa4314" width="55px" />
