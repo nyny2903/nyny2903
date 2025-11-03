@@ -12,13 +12,13 @@
 <h3>Onde me encontrar</h3>
 
 <a href="mailto:nynymramos@gmail.com">
-  <img src="https://blob.gifcities.org/gifcities/RU2HUVLHIIM5W5DE554Q4S3KUT2TEF4K.gif" width="55px" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="70px" />
 </a>
 <a href="https://discord.com/users/astr0str">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="45px" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" width="70px" />
 </a>
 <a href="https://www.last.fm/user/nynysz">
-  <img src="https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=lastdotfm&logoColor=white" width="50px" />
+  <img src="https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=lastdotfm&logoColor=white" width="70px" />
 </a>
 </div>
 
