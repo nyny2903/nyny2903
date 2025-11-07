@@ -2,7 +2,7 @@
   <b>Oie! Welcome 2 my profile (ᵔ◡ᵔ)</b>
 </h1>
 
-<img src="https://github.com/nyny2903/nyny2903/blob/main/furg_logo.png?raw=true" width="15px">  Estudante de Física bacharelado na FURG<br/><img src="https://github.com/nyny2903/nyny2903/blob/main/gatc_colorLogo.png?raw=true" width="25px">  Bolsista CNPQ de IC do Grupo de Astrofísica Teórica e Computacional
+<img src="https://github.com/nyny2903/nyny2903/blob/main/furg_logo.png?raw=true" width="15px">  Estudante de Física bacharelado na Universidade Federal do Rio Grande (FURG)<br/><img src="https://github.com/nyny2903/nyny2903/blob/main/gatc_colorLogo.png?raw=true" width="25px">  Bolsista CNPQ de IC do Grupo de Astrofísica Teórica e Computacional (GATC)
 
 <p align="center">
   <img src="https://github.com/nyny2903/nyny2903/blob/main/sharkshark.gif?raw=true" width="60%">
