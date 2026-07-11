@@ -21,11 +21,3 @@
   <img src="https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=lastdotfm&logoColor=white" width="100" />
 </a>
 </div>
-
-***
-
-<div align="center">
-  
-![nyny GitHub stats](https://github-readme-stats.vercel.app/api?username=nyny2903&show_icons=true&theme=radical)
-
-</div> 
